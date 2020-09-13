@@ -1,0 +1,11 @@
+https://pythonexercises.rozh2sch.org.ua/
+https://medium.com/javarevisited/8-projects-you-can-buil-to-learn-python-in-2020-251dd5350d56 - 8 Projects You Can Build to Learn Python in 2020
+
+https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450 - 36 Amazing Python Open Source Projects (v.2019)
+
+http://www.pythontutor.com/visualize.html#mode=edit
+
+https://www.sololearn.com/ - Learn to code for free!
+
+https://www.youtube.com/watch?v=BWiLeud_yh4&list=PLqrtuwUbDyeliqb9dT_CzX9nHulMveCLp - Програмування Python.
+
