@@ -1,3 +1,17 @@
+Створювати програми на мові Python можна у різноманітних середовищах. Наприклад:
+
+Завантажте середовище з офіційного сайту Python https://www.python.org/downloads/ 
+
+Програмуйте онлайн http://www.tutorialspoint.com/codingground.htm або
+
+https://repl.it/languages/python3
+
+Симпатичне середовище https://app.edublocks.org/, схоже на Scratch
+
+Зручний редактор https://codewith.mu/
+
+
+
 https://pythonexercises.rozh2sch.org.ua/
 https://medium.com/javarevisited/8-projects-you-can-buil-to-learn-python-in-2020-251dd5350d56 - 8 Projects You Can Build to Learn Python in 2020
 
@@ -20,4 +34,5 @@ https://proglib.io/p/musthave-python-projects - 11 проектов, котор�
 https://dev-gang.ru/article/5-klassnyh-idei-dlja-proektov-na-python-8b7qrn9rxf/ - 5 классных идей для проектов на Python
 
 https://medium.com/learning-journalism-tech/five-mini-programming-projects-for-the-python-beginner-21492f6ce0f3 - Five mini programming projects for the Python beginner
+
  
