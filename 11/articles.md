@@ -10,6 +10,8 @@ https://repl.it/languages/python3
 
 Зручний редактор https://codewith.mu/
 
+Курс по пайтон  http://www.vitaliypodoba.com/tutorials/python2-beginners-course/
+
 
 
 https://pythonexercises.rozh2sch.org.ua/
