@@ -6,3 +6,5 @@ numbers = [
     815, 67, 104, 58, 512, 24, 892, 894, 767, 553, 81, 379, 843, 831, 445, 742, 717, 
     958,743, 527
 ]
+
+https://www.programiz.com/python-programming/examples/calculator
